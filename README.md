@@ -13,4 +13,5 @@
      * @param unsortedDates - an unsorted list of dates
      * @return the collection of dates now sorted as per the spec
      # DataSorted!
-     [Знімок екрана 2022-11-16 о 15 33 52](https://user-images.githubusercontent.com/104459108/202194296-78c4b0e4-a57e-4ee4-a9f4-eb9aacd04e8c.png)
+     ![Знімок екрана 2022-11-17 о 00 22 22](https://user-images.githubusercontent.com/104459108/202307236-15acdf7d-d915-4691-93d4-09ca521081d0.png)
+
